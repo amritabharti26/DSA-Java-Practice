@@ -1,4 +1,4 @@
-import nextPractice.ConpectOfString;
+package nextPractice;
 
 public class ReverseArray {
     public static void main(ConpectOfString[] args) {
