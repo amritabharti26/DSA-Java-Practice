@@ -1,4 +1,4 @@
-package twoPointerPattern_QuesPractice;
+package twoPointerPattern_QuesPractice.sameDirection;
 
 import java.util.Arrays;
 

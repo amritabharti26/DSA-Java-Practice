@@ -1,4 +1,4 @@
-package twoPointerPattern_QuesPractice;
+package twoPointerPattern_QuesPractice.oppositeDirection;
 
 public class checkPalindrome {
     public static void main(String[] args) {
